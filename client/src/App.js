@@ -22,6 +22,12 @@ function App() {
 
   return (
     <div className="App">
+      <header>
+        <h1>Computación Paralela y Distribuida 2 Sem 2023</h1>
+        <h2>Proyecto REST</h2>
+        <h3>Integrantes:- Pablo Garcia Urzua - Victor Toledo Cerna - Fabian Rojas Gamboa</h3>
+        <h4>Enlace a la API: http://127.0.0.1:5000</h4>
+      </header>
       <LogininButton />
       <LogoutButton />
     </div>
